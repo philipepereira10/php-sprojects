@@ -1,7 +1,12 @@
 # php-sprojects
 Projetos em PHP sintaticas
 # javascript
-Projetos com Javascript
+Projetos com PHP
+
+Atenção: Este projeto foi desenvolvido em PHP e o GitHub Pages não suporta a execução de PHP.
+Por isso, não é possível visualizar o site diretamente aqui.
+
+✅ Para testar, faça o download do repositório e rode num servidor local (por exemplo XAMPP, WAMP, Laragon ou outro).
 
  <a href="https://philipepereira10.github.io/php-sprojects/d001(numeroantesucessor)/index.html"> Executar Numero AnteSucessor</a>
 

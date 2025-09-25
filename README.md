@@ -1,6 +1,6 @@
 # php-sprojects
 Projetos em PHP sintaticas
-# javascript
+# PHP
 Projetos com PHP
 
 Atenção: Este projeto foi desenvolvido em PHP e o GitHub Pages não suporta a execução de PHP.

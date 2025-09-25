@@ -5,7 +5,7 @@ Projetos com Javascript
 
  <a href="https://philipepereira10.github.io/php-sprojects/d001(numeroantesucessor)/index.html"> Executar Numero AnteSucessor</a>
 
- <a href="https://philipepereira10.github.io/php-sprojects/d002(geradornumeroalea)/index.phps"> Executar Número Aleatório</a> 
+ <a href="https://philipepereira10.github.io/php-sprojects/d002(geradornumeroalea)/index.php"> Executar Número Aleatório</a> 
 
   <a href="https://philipepereira10.github.io/php-sprojects/d003(conversormoedas)/index.html"> Executar Conversor de Moedas</a> 
 
@@ -15,7 +15,7 @@ Projetos com Javascript
 
  <a href="https://philipepereira10.github.io/php-sprojects/d006(InformeSalario)/index.php"> Executar Salário</a> 
 
- <a href="https://philipepereira10.github.io/php-sprojects/d007(InformeNumero)/index.phpl"> Executar Informe Número</a> 
+ <a href="https://philipepereira10.github.io/php-sprojects/d007(InformeNumero)/index.php"> Executar Informe Número</a> 
 
  <a href="https://philipepereira10.github.io/php-sprojects/d008(MediasAritmrticas)/index.php"> Executar Médias Aritméticas</a> 
 
